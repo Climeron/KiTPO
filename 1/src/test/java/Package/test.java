@@ -7,6 +7,7 @@ import org.junit.Assert;
 public class test {
 	
 	Extraction ext;
+	
 	@Before
 	public void setup() {
 		ext = new Extraction();
